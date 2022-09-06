@@ -1,0 +1,58 @@
+.kiriban {
+  background-color: pink;
+}
+
+.houmon {
+  color: red;
+}
+
+h2 {
+  color: #6060cb;
+  font-weight: bold;
+}
+
+button {
+margin: 5px;
+}
+
+.btn1 {
+  padding: 10px 30px;
+  background: blue;
+  color: #ffffff;
+  font-weight: bold;
+  border-bottom: solid 5px gray;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+.btn1:hover {
+  opacity: 0.7;
+}
+
+.btn2 {
+  padding: 10px 30px;
+  background: purple;
+  color: orange;
+  font-weight: bold;
+  border-bottom: solid 5px gray;
+  border-radius: 35px;
+  cursor: pointer;
+}
+
+.btn2:hover {
+  opacity: 0.7;
+}
+
+.btn3 {
+  padding: 10px 30px;
+  background: yellowgreen;
+  color: #ff5702;
+  font-weight: bold;
+  border-bottom: solid 5px gray;
+  border-radius: 35px;
+  cursor: pointer;
+}
+
+.btn3:hover {
+  opacity: 0.7;
+}
